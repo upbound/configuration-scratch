@@ -4,7 +4,7 @@ This repository defines a "scratch" (or empty) [Crossplane configuration](https:
 
 ## What's Inside
 
-A Crossplane configuration bundles a set of APIs. The [crossplane.yaml](https://github.com/upbound/configuration-scratch/blob/main/crossplane.yaml) is the definition file for a Configuration. This configuration has no APIs defined because it is from scratch.
+A Crossplane configuration bundles a set of APIs. The [crossplane.yaml](https://github.com/upbound/configuration-scratch/blob/main/crossplane.yaml) is the definition file for a configuration. This configuration has no APIs defined because it is from scratch.
 
 ## Next Steps
 
